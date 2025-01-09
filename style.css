@@ -5,7 +5,7 @@
 
 .center{
     text-align: center;
-    margin-top: 200px;
+    margin-top: 100px;
     
 }
 
@@ -95,13 +95,13 @@ body{
 }
 
 .first-line{
-    padding:15px 30px;
+    padding:10px 20px;
     border-bottom:1px solid #dadce0;
     font-size:15px;
 }
 
 .second-line{
-    padding:15px 30px;
+    padding:10px 20px;
     font-size:15px;
     color:rgba(0,0,0.54);
     
